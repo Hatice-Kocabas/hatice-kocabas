@@ -39,4 +39,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-FF5A5F?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Agents-1E90FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/LoRA-F48024?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fine-tuning-8A2BE2?style=flat-square" />
 </p>
+
