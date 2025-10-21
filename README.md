@@ -16,10 +16,11 @@
 
 ### 💡 About Me
 - 🎓 Computer Engineering graduate from **Abdullah Gül University**  
-- 💼 Currently working as an **AI & Software Specialist Assistant**  
+- 💼 Currently open to new opportunities in **AI** and **Machine Learning**  
 - 🤖 Interested in **AI**, **Machine Learning**, **LLMs**, and **Software Development**  
 - 🧪 Experience with recommendation systems, clustering, regression models, and API development  
-- 🚀 Focused on **Deep Learning**, **Autonomous Agents**, and real-world ML applications  
+- 🚀 Focused on **Deep Learning**, **Autonomous Agents**, and real-world ML applications
+
 
 ---
 
